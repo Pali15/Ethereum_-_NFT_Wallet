@@ -1,0 +1,10 @@
+
+LANDING PAGE: 
+    -form: public and private key
+    -eth address: from public key
+
+LISTING PAGE: 
+    - list of chairs
+
+WALLET DETAILS: 
+    - number of tokens (this is the currency)
